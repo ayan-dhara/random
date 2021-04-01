@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    border: none;
+    padding: 0px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table * {
+    border: 0.2px solid black;
+}
+
+table td, table th{
+    padding: 5px;
+}
